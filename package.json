@@ -1,18 +1,18 @@
 {
-  "name": "parcel-project-template",
+  "name": "filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Dranyk.github.io/js-project-5",
+  "homepage": "https://Dmitry-Abakumov.github.io/filmoteka",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /js-project-5/"
+    "build": "parcel build src/*.html --public-url /filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dranyk/js-project-5.git"
+    "url": "git+https://github.com/Dmitry-Abakumov/js-filmoteka.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Dmitry Abakumov",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
