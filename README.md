@@ -1,4 +1,4 @@
-Hello it`s multipage JavaScript team project.
+Hello it`s multipage JavaScript team project
 
 My role is developer
 
