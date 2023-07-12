@@ -1,4 +1,4 @@
-Hello it`s multipage JavaScript team project.
+Hello it`s multipage JavaScript team project
 
 My role is developer
 
@@ -24,4 +24,4 @@ Used technolgies and libraries:
 5. HTML
 6. SASS
 
-Link to live page:
+Link to live page: https://dmitry-abakumov.github.io/filmoteka/
